@@ -106,7 +106,7 @@ Use the following credentials: username: admin, password: 123.
 
 ## Do you have any issue?
 
-Please contact via LinkedIn account or drop an email (read [LICENSE.md]).
+Please contact via LinkedIn account or drop an email (read [LICENSE.md] file).
 
 ## Contributing
 
