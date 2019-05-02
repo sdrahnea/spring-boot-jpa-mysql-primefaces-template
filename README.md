@@ -3,16 +3,16 @@
 This is template of the application which use the following frameworks: javasql, spring framework, spring boot, spring jpa, hibernate, primefaces and MySQL as database. 
 
 ## Summary
-### Getting Started (Prerequisites, Installing)
-### Running the tests
-### Deployment
-### Built With
-### Do you have any issue?
-### Contributing
-### Versioning
-### Authors
-### License
-### Donation
+* Getting Started (Prerequisites, Installing)
+* Running the tests
+* Deployment
+* Built With
+* Do you have any issue?
+* Contributing
+* Versioning
+* Authors
+* License
+* Donation
 
 
 ## Getting Started
